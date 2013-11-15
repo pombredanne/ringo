@@ -1,6 +1,6 @@
 
 Ringo - Distributed key/value storage for immutable data
---------------------------------------------------------
+========================================================
 
 Ringo is an experimental, distributed, replicating key-value store based
 on consistent hashing and immutable data. Unlike many general-purpose
@@ -177,4 +177,10 @@ Ville Tuulos who can be reached at
 ville.h.tuulos -a- nokia.com
 
 or on the IRC channel #discoproject at Freenode.
+
+
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/tuulos/ringo/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
 
